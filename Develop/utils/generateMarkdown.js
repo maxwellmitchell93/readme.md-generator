@@ -64,12 +64,12 @@ function generateMarkdown(data) {
   ## Deployed Application URL
   ${data.deploymentLink}
   ## Table of Contents
-  * [Instalation] (#instalation)
+  * [Instalation](#instalation)
   * [Languages & Dependencies](#languagesanddependencies)
   * [Usage](#Usage)
-  * [Credits] (#Credits)
-  * [License] (#Licnese)
-  * [Badges] (#Badges)
+  * [Credits](#Credits)
+  * [License](#Licnese)
+  * [Badges](#Badges)
   * [Features](#features)
   * [How to contribute](#contribute)
   * [Tests](#tests)
